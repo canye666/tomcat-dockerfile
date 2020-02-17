@@ -1,7 +1,7 @@
 FROM tomcat:8.0-jre8
 
 #作者
-MAINTAINER W2G
+MAINTAINER mm841318078: 自动构建docker镜像
 
 #定义工作目录
 ENV WORK_PATH /usr/local/tomcat/conf
